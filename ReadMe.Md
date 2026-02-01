@@ -27,14 +27,7 @@ Python 3
 
 Libraries: random, matplotlib, numpy (optional)
 
-Project Structure
-random-movement-abm/
-├── main.py               # Main simulation script
-├── agent.py              # Agent class definition
-├── environment.py        # Environment setup (if applicable)
-├── requirements.txt      # Project dependencies
-├── README.md             # Project documentation
-└── results/              # Simulation outputs / plots
+
 
 Output & Visualization
 
